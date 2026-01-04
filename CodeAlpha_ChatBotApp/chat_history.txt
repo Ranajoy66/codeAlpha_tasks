@@ -1,0 +1,32 @@
+You: hi
+Bot: Hello! How can I help you?
+You: java
+Bot: Java is an object-oriented programming language.
+You: swing
+Bot: Java Swing is used to build desktop GUI applications.
+You: swing
+Bot: Java Swing is used to build desktop GUI applications.
+You: ok
+Bot: You are welcome.
+You: greetings
+Bot: You are welcome.
+You: greeting
+Bot: You are welcome.
+You: thanks
+Bot: You are welcome.
+You: learn
+Bot: You can learn Java by practicing basics and building projects.
+You: goodbye
+Bot: Goodbye. Have a great day.
+You: hi
+Bot: Hello! How can I help you?
+You: swing
+Bot: Java Swing is used to build desktop GUI applications.
+You: ok
+Bot: You are welcome.
+You: thank you
+Bot: You are welcome.
+You: what is java?
+Bot: Java is an object-oriented programming language.
+You: goodbye
+Bot: Goodbye. Have a great day.
