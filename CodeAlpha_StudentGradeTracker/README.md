@@ -41,5 +41,4 @@ The Student Grade Tracker allows users to input student names and marks, then ca
 - Java installed on your system
 
 Check Java version:
-```bash
 java -version
